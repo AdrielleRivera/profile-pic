@@ -11,7 +11,7 @@
     height: 25vh;
     background-image: url("image/banner.jpg");
     background-position: bottom;
-    background-size: cover;
+    background-size:cover;
     display: flex;
     align-items: center;
     padding: 0 20px;
